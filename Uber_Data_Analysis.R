@@ -1,4 +1,4 @@
-# Uber Data Analysis
+# Uber Data Analysis 
 #____________________#
 
 #Bases (Classifying Uber trips as small,medium and large)
@@ -7,6 +7,7 @@
 #B02617 - Medium
 #B02682 - Medium
 #B02764 - Large
+#refer above
 
 # Importing the Essential packages
 install.packages("ggplot2")
